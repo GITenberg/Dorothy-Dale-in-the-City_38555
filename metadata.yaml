@@ -1,0 +1,30 @@
+_repo: Dorothy-Dale-in-the-City_38555
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38555-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2012-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Practical jokes -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'New York (N.Y.) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'City and town life -- Juvenile fiction'
+- !lcsh 'Children and adults -- Juvenile fiction'
+title: Dorothy Dale in the City
+url: http://www.gutenberg.org/ebooks/38555
